@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;GoLearning&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.go/src/github.com" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$USER_HOME$/.go/src/github.com/aws/aws-sdk-go/vendor/github.com/go-ini/ini/testdata" />
+      <root url="file://$USER_HOME$/.go/src/github.com/awslabs/aws-sdk-go/vendor/github.com/go-ini/ini/testdata" />
+      <root url="file://$USER_HOME$/.go/src/github.com/aws/aws-sdk-go/.git" />
+      <root url="file://$USER_HOME$/.go/src/github.com/awslabs/aws-sdk-go/.git" />
+    </excluded>
+  </library>
+</component>
